@@ -40,7 +40,8 @@
         display: inline-block;
        
     }
-
+    
     .cards{
-        
+      width: 400px;
+      height: auto;
     }
