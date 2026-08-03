@@ -57,6 +57,7 @@
     .texts{
         text-align: center;
         border: 1px solid rgb(241, 240, 240);
+        border-top: none;
         padding: 20px;
         
     }
@@ -65,15 +66,15 @@
         font-weight: 700;
         font-size: 30px;
         color: black;
-        padding-top: 15px;
 
        
     }
-    .text1{
+    .text2{
         color: black;
-        text-align: start;
-        font-size: 16px;
+        font-size: 18px;
+        font-weight: 500;
         padding-top: 15px;
+
     }
     .btn1{
         padding: 12px 30px;
