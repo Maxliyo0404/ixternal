@@ -59,7 +59,6 @@
         border: 1px solid rgb(241, 240, 240);
         border-top: none;
         padding: 20px;
-        padding-top: none;
     }
     .title2{
         font-weight: 700;
@@ -70,7 +69,6 @@
         color: black;
         font-size: 18px;
         font-weight: 500;
-        padding-top: 15px;
 
     }
     .btn2{
