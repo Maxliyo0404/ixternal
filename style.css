@@ -59,15 +59,12 @@
         border: 1px solid rgb(241, 240, 240);
         border-top: none;
         padding: 20px;
-        
+        padding-top: none;
     }
     .title2{
-    
         font-weight: 700;
         font-size: 30px;
         color: black;
-
-       
     }
     .text2{
         color: black;
@@ -86,8 +83,6 @@
         margin-bottom: 20px;
     }
     .link2{
-        background: blue;
-        color: white;
         font-size: 22px;
         line-height: 28px;
         display: inline-block;
