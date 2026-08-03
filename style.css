@@ -40,12 +40,14 @@
         display: inline-block;
        
     }
-    
-    .cards{
+   
+    .card{
       width: 400px;
       height: auto;
       border-radius: 20px;
       margin: 0 auto;
+      border: 1px solid black;
+      text-align: center;
     }
     .rasm1{
          width: 100%;
