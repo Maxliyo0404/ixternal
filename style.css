@@ -76,18 +76,19 @@
         padding-top: 15px;
 
     }
-    .btn1{
+    .btn2{
+        width: 100%;
         padding: 12px 30px;
         background: blue;
         border: none;
         border-radius: 12px;
         color: white;
+        margin-bottom: 20px;
     }
     .link1{
-
+        background: blue;
         font-size: 22px;
         line-height: 28px;
-        padding-top: 15px;
         display: inline-block;
        
     }
