@@ -3,7 +3,7 @@
    .box{
     width: 500px;
     margin: 0 auto;
-    border: 2px solid black;
+    border: 2px solid blue;
     padding: 20px;
     border-radius: 20px;
     box-shadow: 10px 15px 10px gainsboro;
@@ -19,10 +19,24 @@
         font-size: 30px;
         padding-top: 15px;
     }
+    .text1{
+        color: black;
+        text-align: start;
+        font-size: 16px;
+        padding-top: 15px;
+    }
     .btn1{
         padding: 12px 30px;
         background: blue;
         border: none;
         border-radius: 12px;
         color: white;
+    }
+    .link1{
+
+        font-size: 22px;
+        line-height: 28px;
+        padding-top: 15px;
+        display: inline-block;
+       
     }
