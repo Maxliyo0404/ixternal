@@ -34,5 +34,6 @@ button{
     border-radius: 12px;
     &:hover{
       background: black;
+      color: ;
     }
 }
