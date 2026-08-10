@@ -14,7 +14,7 @@
   flex-direction: column;
   border: 3px solid black;
   &:hover{
-    width: 400px;
+    width: 200px;
   }
 }
 img {
