@@ -33,6 +33,6 @@ button{
     border: none;
     border-radius: 12px;
     &:hover{
-
+      background: black;
     }
 }
