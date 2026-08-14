@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     padding: 0;
     margin: 0;
@@ -42,3 +43,44 @@ a{
 
 
 
+=======
+.cards {
+  background: blue;
+  height: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+}
+.card1 {
+  width: 300px;
+  border-radius: 20px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  &:hover {
+    width: 400px;
+  }
+}
+img {
+  width: 100%;
+  border-radius: 20px;
+  &:hover {
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    margin: 0 auto;
+  }
+}
+button {
+  padding: 12px;
+  width: 100%;
+  border: none;
+  border-radius: 12px;
+  &:hover {
+    background: black;
+    color: white;
+  }
+}
+>>>>>>> 5b6dd76d6b055749add017ec2c1b67ea9c2c5412
