@@ -87,5 +87,6 @@ button {
     padding: 51px 0;
 }
 .hero-info{
-    
+    display: flex;
+    align-items: ;
 }
