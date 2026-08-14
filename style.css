@@ -89,4 +89,5 @@ button {
 .hero-info{
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
